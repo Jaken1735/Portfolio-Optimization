@@ -1,0 +1,6 @@
+pandas
+alpha_vantage
+numpy
+yfinance
+tensorflow
+torch
