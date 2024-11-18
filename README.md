@@ -1,7 +1,7 @@
 # Portfolio Optimization
 
 ## Overview
-This project implements a complete pipeline for portfolio optimization, leveraging historical stock data, machine learning models, and optimization techniques. The main goal is to predict stock prices and allocate assets in a portfolio to maximize returns while minimizing risk.
+This project implements a comprehensive pipeline for portfolio optimization, combining historical stock data, machine learning models, and optimization techniques such as the Markowitz Efficient Frontier. The primary goal is to predict stock prices and allocate assets in a portfolio to maximize returns while minimizing risk.
 
 ### Key Components:
 1. **Data Processing:**
@@ -14,6 +14,12 @@ This project implements a complete pipeline for portfolio optimization, leveragi
 
 3. **Portfolio Optimization:**
    - Use optimization techniques (e.g., maximizing the Sharpe ratio) to determine optimal stock allocations based on predictions.
+
+4. **Markowitz Efficient Frontier:**
+   - Risk-Return Analysis: Computes portfolio returns, risks (volatility), and covariances to identify the optimal risk-return tradeoff.
+   - Visualization: Plots the Efficient Frontier and highlights the optimal portfolio.
+
+<img width="1277" alt="Skärmavbild 2024-11-18 kl  21 01 35" src="https://github.com/user-attachments/assets/f9cadcb5-b922-4876-b419-d4b09ddea515">
 
 ---
 
@@ -39,8 +45,4 @@ This project implements a complete pipeline for portfolio optimization, leveragi
   - Maximizing returns
   - Minimizing volatility
   - Maximizing the Sharpe ratio.
-
----
-
-## Installation
 
