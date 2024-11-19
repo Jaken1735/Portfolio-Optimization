@@ -21,3 +21,8 @@ The simulation has the following parameters:
 - 200 day Timeframe
 - $10000 intial portfolio-value
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1123429c-2c42-405a-a830-748b7788a226" alt="portfolio_simulation_incremental(1)" />
+</div>
+
+
